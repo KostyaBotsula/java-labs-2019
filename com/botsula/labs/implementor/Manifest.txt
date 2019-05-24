@@ -1,0 +1,2 @@
+Main-Class: com.botsula.labs.implementor.Implementor
+Implementation-Vendor: Botsula Konstantin
